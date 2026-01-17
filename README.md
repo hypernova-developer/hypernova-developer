@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hypernova-Developer - Young Developer
 
-<!--
-**hypernova-developer/hypernova-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Hypernova-Developer, a 13-year-old developer passionate about coding and technology.  
+I enjoy creating interactive projects, games, and practical systems.  
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** C++ (advanced), Python (intermediate), HTML & CSS (basic)
+- **Projects:** Car Park Management System, Bill Systems, Mini Games
+- **Tools:** VS Code, Fusion 360, Git & GitHub
+- **Approach:** Open-source supporter, loves learning by doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- I like solving problems and building real-life applications.
+- I share my projects publicly to inspire others and improve my skills.
+- My goal is to keep experimenting, learning, and coding for fun and impact.
