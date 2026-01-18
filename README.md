@@ -1,4 +1,4 @@
-# Hypernova-Developer - Young Developer
+# Hypernova-Developer - Young Programmer
 
 Hi! I'm Hypernova-Developer, a 13-year-old developer passionate about coding and technology.  
 I enjoy creating interactive projects, games, and practical systems.  
