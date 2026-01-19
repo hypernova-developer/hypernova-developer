@@ -6,7 +6,9 @@ I enjoy creating interactive projects, games, and practical systems.
 ## Skills
 - **Languages:** C++ (advanced), Python (intermediate), HTML & CSS (basic)
 - **Projects:** Car Park Management System, Bill Systems, Mini Games
-- **Tools:** VS Code, Fusion 360, Git & GitHub
+Upcoming Projects:
+Gamificated Learning, Content: Medicine
+- **Tools:** VS Code, VS 2022, Fusion 360, Git & GitHub, Jetbrains IDE's, Canva
 - **Approach:** Open-source supporter, loves learning by doing
 
 ## About Me
