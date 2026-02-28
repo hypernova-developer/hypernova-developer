@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Hypernova-Developer, a very young developer passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on MatriX_Core and MatriX_Neural Lichess chess bots.
+Hi! I'm Hypernova-Developer, a very young developer passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on MatriX_Core and MatriX_Neural Lichess chess bots. I am a developer of 10 languages, Linux user, open-source supporter. 
 
 
 ## 🌐 Socials:
