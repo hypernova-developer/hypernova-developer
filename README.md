@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Hypernova-Developer, a very young developer passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on Jenny AI CLI. I am a developer who uses 10 languages, Linux user, open-source supporter.
+Hi! I'm Hypernova-Developer, a very young developer passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on Jenny AI CLI. I am a developer who uses 10 languages, Linux user, open-source supporter. I'm also a fan of Sir Linus Torvalds. @torvalds
 
 
 ## 🌐 Socials:
