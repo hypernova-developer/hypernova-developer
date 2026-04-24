@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm hypernova-developer, a 13 year old developer passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on Jenny AI CLI, SyntaX Library Collection, RedUbuntu, Sentinel and CompileX. I am a developer who works with 15 languages, Linux user, open-source supporter. I'm also a fan of Sir Linus Torvalds. 
+Hi! I'm hypernova-developer, a **13** year old developer passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on Jenny AI CLI, SyntaX Library Collection, RedUbuntu, Sentinel, MatriX_Core, MatriX_Neural, RedUbuntu, SPS, Belisarius, Raylib-TR and CompileX. I am a developer who works with 15 languages, Linux user, open-source supporter. I'm also a fan of Sir Linus Torvalds. 
 
 
 ## 🌐 Socials:
