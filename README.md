@@ -1,10 +1,6 @@
 # 💫 About Me:
 Hi! I'm hypernova-developer, a **13 year old developer** passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on Jenny AI CLI, SyntaX Library Collection, RedUbuntu, Sentinel, MatriX_Core, MatriX_Neural, RedUbuntu, SPS, Belisarius, Raylib-TR and CompileX. I am a developer who works with 15 languages, Linux user, open-source supporter. I'm also a fan of Sir Linus Torvalds. 
 
-
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31688744) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hypernova-developer) 
-
 ## 🛠️ Tech Stack & Systems
 
 ### 💻 Low-Level & System Engineering
