@@ -37,3 +37,10 @@ Hi! I'm hypernova-developer, a **13 year old developer** passionate about coding
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### Favourite Language! 
+My favourite programming language is **C++**. I am even using C++ to create my own programming language: **Oxygen**! Everyone should learn C++ one day. 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+> hypernova-developer
