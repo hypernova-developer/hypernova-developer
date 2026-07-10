@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm hypernova-developer, a **13 year old developer** passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on Jenny Toolkit CLI, Sentinel, MatriX_Core, MatriX_Neural, RedUbuntu, SPS, Belisarius, Raylib-TR, Oxygen and CompileX. I am a developer who works with 15 languages, Linux user, open-source supporter. I'm also a fan of Sir Linus Torvalds. 
+Hi! I'm hypernova-developer, a **13 year old developer** passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on Daisie Linux, Jenny Toolkit CLI, Sentinel, MatriX_Core, MatriX_Neural, RedUbuntu, SPS, Belisarius, Raylib-TR, Oxygen and CompileX. I am a developer who works with 15 languages, Linux user, open-source supporter. I'm also a fan of Sir Linus Torvalds. 
 
 ## 🛠️ Tech Stack & Systems
 
