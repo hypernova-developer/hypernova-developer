@@ -1,3 +1,5 @@
+<!--
+
 # 💫 About Me:
 Hi! I'm hypernova-developer, a **13 year old developer** passionate about coding and technology.<br>I enjoy creating interactive projects, games, and practical systems.<br><br>I am currently working on Daisie Linux, Jenny Toolkit CLI, Sentinel, MatriX_Core, MatriX_Neural, RedUbuntu, SPS, Belisarius, Raylib-TR, Oxygen and CompileX. I am a developer who works with 15 languages, Linux user, open-source supporter. I'm also a fan of Sir Linus Torvalds. 
 
@@ -28,12 +30,10 @@ Hi! I'm hypernova-developer, a **13 year old developer** passionate about coding
   <img src="https://skillicons.dev/icons?i=blender,figma,ps,pr,ae,ai,au" />
 </p>
 
-<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hypernova-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hypernova-developer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hypernova-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
--->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -44,3 +44,5 @@ My favourite programming language is **C++**. I am even using C++ to create my o
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 > hypernova-developer
+
+-->
