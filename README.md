@@ -1,6 +1,6 @@
 # About Me
 
-I am hypernova-developer, a 13-year-old developer specializing in software engineering and system architecture. I focus on developing interactive applications, game systems, and practical computational software.
+I am hypernova-developer, a 13-year-old developer specializing in software engineering and system architecture. I focus on developing interactive applications, game systems and practical computational software.
 
 Currently, I am actively developing Daisie Linux, Jenny Toolkit CLI, Sentinel, MatriX_Core, MatriX_Neural, RedUbuntu, SPS, Belisarius, Raylib-TR, Oxygen, and CompileX. I work across 15 programming languages, utilize Linux environments, support open-source development, and follow the technical philosophies of Linus Torvalds.
 
